@@ -9,6 +9,6 @@ This is about as simple as you can get.
 
 var Eta = require('eta')
   
-Eta.render('The answer to everything is <%= it.answer %>', { answer: 42 })`}
+Eta.render('The answer to everything is <%= it.answer %>', { answer: 42 })
 
 ```
